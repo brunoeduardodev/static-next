@@ -25,7 +25,8 @@
   gap: 0.5rem;
 }
 
-.description p {
+.description button {
+  cursor: pointer;
   position: relative;
   margin: 0;
   padding: 1rem;
